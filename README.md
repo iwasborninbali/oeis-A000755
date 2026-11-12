@@ -1,5 +1,14 @@
 # OEIS A000755: no-three-in-line configurations on a square grid
 
+<!-- oeis-status:begin -->
+**OEIS status** (lab registry, 13 Nov 2026):
+
+- [A000755](https://oeis.org/A000755), a(20) = 941580 from Flammenkamp's database, checked by orbit sums: **approved** (2026-08-23: approved). Certificate: complete.
+- [A000755](https://oeis.org/A000755), link to the repository (orbit-sum check of a(20)): **queued** (2026-11-13: queued). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
+<!-- oeis-status:end -->
+
 [A000755](https://oeis.org/A000755) counts placements of 2n points in the n × n grid with no three collinear; rotations and reflections are counted separately. The contribution credited to Aleksei Kudriashov in the OEIS is **a(20) = 941580** (23 August 2026), obtained from Achim Flammenkamp's database and checked by orbit sums.
 
 ## Data and method
