@@ -1,0 +1,5 @@
+# 13 Nov 2026, guide: check_fresh.sh logic run on files fetched the same day
+all_known_solutions: 23835520 bytes, Last-Modified 2026-10-28 22:06:18 GMT, sha256 2aa1d0565e6792177c4dbb7a145257739d2008f7b9c126be7ea6be076f16eed5, largest n = 78
+configurations/n20_*: Last-Modified 2026-05-16 15:10:21 GMT
+n = 20 lines in all_known_solutions: 118057 (iden 117347, dia1 17, rot2 675, rot4 16, dia2 2)
+sorted n = 20 lines identical to the union of configurations/n20_* (sha256 of the sorted list 15d784d7759e75de001ae8e9452b78544bb0e603ade02072a88867494ed453e0)
