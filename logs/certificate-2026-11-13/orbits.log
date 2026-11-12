@@ -1,0 +1,11 @@
+cwd: /tmp/c7-A000755
+command: python3 -B check_orbits.py
+exit: 0
+elapsed_seconds: 14.310
+
+n20_iden: 117347 representatives, orbit size 8, placements 938776
+n20_dia1: 17 representatives, orbit size 4, placements 68
+n20_dia2: 2 representatives, orbit size 2, placements 4
+n20_rot2: 675 representatives, orbit size 4, placements 2700
+n20_rot4: 16 representatives, orbit size 2, placements 32
+118057 distinct orbits; 941580 placements

@@ -29,3 +29,5 @@ Run `./fetch_data.sh` and then `python3 -B check_orbits.py` from this directory.
 ## History, credit and licence
 
 The OEIS sequence is by N. J. A. Sloane; it credits further terms to Achim Flammenkamp, a(17) and a(18) to Benjamin Chaffin, and a(19) to Mitchell Riley. The database and its source enumeration are due to Achim Flammenkamp and contributors credited by him; our orbit sum does not independently prove completeness. The data files are third-party material and remain subject to their source terms; no new licence is asserted over them. For original repository code and text: MIT and CC BY 4.0 respectively, see [LICENSE.md](LICENSE.md). Aleksei Kudriashov (ORCID 0009-0006-8885-5338), Athanor lab, with AI assistance.
+
+[Verification certificate](CERTIFICATE.md) and [prior-art record](PRIOR-ART.md).
