@@ -27,8 +27,15 @@ The database enumeration is not independently reproduced or proved complete. The
 
 ## Guide's independent check
 
-pending
+13 November 2026, the guide (Claude Code): `check_collinear.py`, written separately from `check_orbits.py`, decodes every
+representative of the five n = 20 files (fetched the same day; SHA-256 in the log) and checks that no three of its 40 points
+are collinear (distinct reduced directions from every point). All 118057 representatives pass
+(`logs/guide-collinear-2026-11-13.log`, 27 s). Since the eight symmetries of the square preserve collinearity, every placement
+in their orbits is valid too. Together with the orbit-sum replay (941580 placements in 118057 distinct orbits) this certifies
+that the database contains 941580 distinct valid placements, i.e. a(20) >= 941580. That a(20) is not larger rests on the
+completeness of Flammenkamp's enumeration, which we did not recompute; the OEIS value is his.
 
 ## Verdict
 
-partial — The evidence and replay leave the gaps above, and the Guide's independent check is pending.
+complete for our contribution (the count of the database's configurations, their validity and their distinctness); the
+completeness of the third-party enumeration is outside our claim and is credited to Flammenkamp.

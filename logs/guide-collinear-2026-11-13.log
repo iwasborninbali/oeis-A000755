@@ -1,0 +1,12 @@
+# python3 -I check_collinear.py data   (13 Nov 2026, guide; files fetched by fetch_data.sh the same day)
+d330ec0e7b8defdce4284e7dbd3d9465cef5928650fbf71021f5796719262c7e  n20_dia1
+396fb5e8b9a9f0a2faba001390f6af9073d323a8ef63ec4a8cb3183c5d28ddfb  n20_dia2
+13a390758d900264cb5b6ed83f6b703e5f14008b5f2ae4fdbb98df8c798be87d  n20_iden
+d992247ae5be65bd5d35a344270bf8ff5418cc754b7c3a0964d41b337d1a8c0b  n20_rot2
+353b57d9f85c0ed9f9b6f996c3470463aad869c0b5f3dfcacab7d4716491c754  n20_rot4
+n20_iden 117347 configurations, no three collinear in any
+n20_dia1 17 configurations, no three collinear in any
+n20_dia2 2 configurations, no three collinear in any
+n20_rot2 675 configurations, no three collinear in any
+n20_rot4 16 configurations, no three collinear in any
+total 118057 representatives checked
