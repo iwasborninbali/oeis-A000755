@@ -1,10 +1,10 @@
 # OEIS A000755: no-three-in-line configurations on a square grid
 
 <!-- oeis-status:begin -->
-**OEIS status** (lab registry, 14 Nov 2026):
+**OEIS status** (lab registry, 15 Nov 2026):
 
 - [A000755](https://oeis.org/A000755), a(20) = 941580 from Flammenkamp's database, checked by orbit sums: **approved** (2026-08-23: approved). Certificate: complete.
-- [A000755](https://oeis.org/A000755), link to the repository (orbit-sum check of a(20)): **queued** (2026-11-13: queued). Certificate: complete.
+- [A000755](https://oeis.org/A000755), link to the repository (orbit-sum check of a(20)): **proposed** (2026-11-15: submitted: one %H line, the repository oeis-A000755 (link text = repository page title), between Guy and Riley). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
